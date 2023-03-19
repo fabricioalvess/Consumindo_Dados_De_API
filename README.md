@@ -14,6 +14,6 @@ Utilização da api viaCep no formulario de endereco
 
 ## Detalhes do projeto
 
-Requisições async async await, fatch, promisses, event loop e manipulação do DOM
+Requisições async await, fatch, promisses, event loop e manipulação do DOM
 
  
