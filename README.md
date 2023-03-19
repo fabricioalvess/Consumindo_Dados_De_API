@@ -5,7 +5,7 @@ Utilização da api viaCep no formulario de endereco
 | :placard:ViaCep |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Formulario com ViaCep**
-| :label: Tecnologias | java, html,css, javascript (tecnologias utilizadas)
+| :label: Tecnologias |  Html, Css, Javascript 
 | :rocket: URL         | https://fabricioalvess.github.io/Consumindo_Dados_De_API/
 | :fire: Desafio     | https://fabricioalvess.github.io/Consumindo_Dados_De_API/
 
