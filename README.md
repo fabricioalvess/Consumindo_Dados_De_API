@@ -10,7 +10,7 @@ Utilização da api viaCep no formulario de endereco
 | :fire: Desafio     | https://fabricioalvess.github.io/Consumindo_Dados_De_API/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://imgur.com/a/wBOSQPt#vitrinedev)
+![](https://github.com/fabricioalvess/Portifolio/blob/main/img/trabalhos/projeto1/homeFront.png#vitrinedev)
 
 ## Detalhes do projeto
 
